@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="utf-8">
+   <title>Page Title</title>
+   <link rel="stylesheet" href="style.css">
+   <script src="script.js"></script>
+</head>
+
+<body>
+<h1> Яблоки #2 </h1>
+<p> Яблоки фрукты. </р>
+<section>
+     <h2> Вкус </h2>
+     <p> Они вкус прекрасно. </р>
+     <section>
+         <h3> Сладкое </h3>
+         <p> Красные яблоки слаще зеленые. </р>
+     </section>
+ </section>
+<section>
+     <h2> Цвет </h2>
+     <p> Яблоки бывают разных цветов. </р>
+ </section>
+</body>
